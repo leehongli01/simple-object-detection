@@ -12,3 +12,6 @@ This is project only using simple pre-trained model as computational power is re
 # Scenario: Upload Video
 ![image](https://github.com/user-attachments/assets/eaee05c4-6888-4e9f-9213-0968b8828c19)
 
+# Summary and Future Improvements
+Enhanced Accuracy and resilience: Future research can concentrate on enhancing object recognition systems' accuracies and resilience. To do this, it may be necessary to create more complex deep learning models, include multimodal data sources (such as text and audio), and deal with issues like occlusion and different lighting conditions.\
+Semi-Supervised and Unsupervised Learning: Explore semi-supervised and unsupervised learning approaches for object recognition, reducing the reliance on labeled data and potentially opening up new applications in scenarios with limited annotated data.
